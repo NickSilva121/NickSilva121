@@ -2,7 +2,6 @@
 
 - 🔭 Estou a procura de novos desafios na programação.
 - 🌱 Estudando C#.
-- 📫 Contate-me no email: pereira.nicolas1210@gmail.com
 
  <div>
   <a href="https://github.com/NickSilva121">
