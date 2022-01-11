@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Nícolas👋
 
 - 🔭 Estou a procura de novos desafios na programação.
-- 🌱 Estudando C#.
+- 🌱 Estudando HTML.
 
  <div>
   <a href="https://github.com/NickSilva121">
