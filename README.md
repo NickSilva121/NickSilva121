@@ -3,11 +3,6 @@
 - 🔭 Estou a procura de novos desafios na programação.
 - 🌱 Estudando C#.
 - 💼 Trabalhando com Dynamics.
-
- <div>
-  <a href="https://github.com/NickSilva121">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickSilva121&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block">
   <img align="center" alt="Nick-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
