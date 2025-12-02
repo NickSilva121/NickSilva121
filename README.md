@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Nícolas👋
 
 - 🔭 Estou a procura de novos desafios na programação.
-- 🌱 Estudando C#.
+- 🌱 Estudando Python.
 - 💼 Trabalhando com Dynamics.
   
 <div style="display: inline_block">
